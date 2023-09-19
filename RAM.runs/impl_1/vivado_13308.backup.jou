@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Jul 19 19:33:18 2022
+# Process ID: 13308
+# Current directory: C:/Users/tr764030/Desktop/Lab 6/RAM/RAM.runs/impl_1
+# Command line: vivado.exe -log RAM.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source RAM.tcl -notrace
+# Log file: C:/Users/tr764030/Desktop/Lab 6/RAM/RAM.runs/impl_1/RAM.vdi
+# Journal file: C:/Users/tr764030/Desktop/Lab 6/RAM/RAM.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source RAM.tcl -notrace
